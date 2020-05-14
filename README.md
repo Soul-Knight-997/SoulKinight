@@ -1,2 +1,2 @@
-# SoulKinight
+# SoulKnight
 Class Project in TJSE
